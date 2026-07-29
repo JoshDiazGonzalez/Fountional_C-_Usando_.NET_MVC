@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Bucles/Bucles.csproj" />
+  <Project Path="DoWhile/DoWhile.csproj" />
+  <Project Path="While/While.csproj" />
+</Solution>
