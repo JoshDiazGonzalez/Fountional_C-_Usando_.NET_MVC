@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Operadores&amp;Condicionales/Operadores&amp;Condicionales.csproj" />
+  <Project Path="Operadores/Operadores.csproj" />
+  <Project Path="OperadoresDeAsignacion/OperadoresDeAsignacion.csproj" />
+  <Project Path="Switch/Switch.csproj" />
+</Solution>
