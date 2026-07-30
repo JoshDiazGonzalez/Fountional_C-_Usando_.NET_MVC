@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Metodos/Metodos.csproj" />
+  <Project Path="MetodosParametros/MetodosParametros.csproj" />
+  <Project Path="MetodosParametrosDefault/MetodosParametrosDefault.csproj" />
+  <Project Path="MetodosParametrosOpcional/MetodosParametrosOpcional.csproj" />
+  <Project Path="MetodosRetornarUnValor/MetodosRetornarUnValor.csproj" />
+  <Project Path="MetodosTuplas/MetodosTuplas.csproj" />
+  <Project Path="ParametroPorReferencia/ParametroPorReferencia.csproj" />
+  <Project Path="Tuplas/Tuplas.csproj" />
+</Solution>
