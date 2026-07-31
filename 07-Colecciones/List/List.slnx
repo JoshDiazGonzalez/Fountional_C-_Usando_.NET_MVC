@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="diccionario/diccionario.csproj" />
+  <Project Path="LinkedList/LinkedList.csproj" />
+  <Project Path="List/List.csproj" />
+  <Project Path="QueueCollection/QueueCollection.csproj" />
+  <Project Path="stack collection/stack collection.csproj" />
+</Solution>
